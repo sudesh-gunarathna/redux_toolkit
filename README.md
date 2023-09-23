@@ -62,7 +62,7 @@ redux toolkit basics , Async Action with Redux toolkit
                         fruit: fruitReducer,
                         drink: drinkReducer,
                         pharmacy: pharmacyReducer,
-                        todo: todoReducer,
+                        **todo: todoReducer,**
                         
                     },
                     middleware : (getDefaultMiddleware)=>{
