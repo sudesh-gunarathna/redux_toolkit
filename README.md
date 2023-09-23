@@ -3,7 +3,7 @@ redux toolkit basics , Async Action with Redux toolkit
 # for AsyncAction
 1. no need to install redux_thunk, it  is already in  redux toolkit.
 2. async action included to todo section
-3. 
+ 
       create todoSlice function using createSlice
           const todoSlice = createSlice(
               {
